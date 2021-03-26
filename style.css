@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Syne+Mono&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'Syne Mono', monospace;
+    background-color: paleturquoise;
+    text-align: center;
+    padding: 20px;
+}
+
+h1{
+    color: royalblue;
+    padding: 20px;
+}
+
+p{
+    padding: 10px;
+    font-size: 20px;
+}
+
+img{
+    border: 5px solid black ;
+    border-radius: 10px;
+}
+
