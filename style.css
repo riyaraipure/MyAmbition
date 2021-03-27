@@ -13,7 +13,13 @@ body{
 
 h1{
     color: royalblue;
-    padding: 20px;
+    padding: 10px;
+    font-size: 30px;
+}
+
+h2{
+    color: coral;
+    padding: 10px;
 }
 
 p{
